@@ -1,5 +1,4 @@
-# Contains plaintext flags. Never commit.
-challenges.source*.json
+# some files contain plaintext flags. don't commit these ever never!!!!!
 !challenges.source.example.json
 
 __pycache__/
