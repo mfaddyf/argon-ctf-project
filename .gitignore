@@ -1,0 +1,7 @@
+# Contains plaintext flags. Never commit.
+challenges.source*.json
+!challenges.source.example.json
+
+__pycache__/
+*.pyc
+.DS_Store
